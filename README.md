@@ -14,6 +14,9 @@
 ---
 
 ## 👨‍🎓 About Me
+<p align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right"/>
+</p>
 - 🎓 Electronics & Communications student at **Helwan University, Faculty of Engineering**
 - 🏅 Ranked among the **top students** (Current GPA: **B+**)
 - 💡 Passionate about **Digital IC Design, FPGA, RTL Verification**
