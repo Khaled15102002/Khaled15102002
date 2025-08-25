@@ -1,17 +1,20 @@
 # 👋 Hi, I'm Khaled Ali  
 
 🎓 Electronics & Communications Engineering student at **Helwan University, Faculty of Engineering**  
+🏆 Ranked among the **top students** in my class  
 💡 Aspiring **Digital IC Design Engineer** | Passionate about **FPGA, RTL, and VLSI**  
 
 ---
 
 ## 🚀 About Me
-- 🖥️ Interested in **Digital IC Design, RTL Verification, FPGA-based Systems**  
-- 🔧 Experienced in **Verilog HDL, Vivado, QuestaSim, Timing Analysis**  
-- 📚 Projects I’ve worked on:  
-  - 🔢 DSP48A1 Spartan-6 Slice (math-intensive DSP block)  
-  - 📡 SPI Slave with RAM (FSM-based, multiple encodings)  
-  - 🔄 UART Transmitter/Receiver (configurable baud rate, parity, frame format)  
+- 🎓 Final-year student in **Electronics & Communications Engineering** at Helwan University.  
+- 🏆 Consistently ranked among the **top students** of my class.  
+- 🖥️ Focused on **Digital IC Design, RTL Verification, and FPGA-based Systems**.  
+- 🔧 Skilled in **Verilog HDL, FPGA Design, Vivado, QuestaSim, and Timing Analysis**.  
+- 📚 Key academic projects:  
+  - 🔢 **DSP48A1 Spartan-6 Slice** – implemented math-intensive DSP block.  
+  - 📡 **SPI Slave with RAM** – FSM-based design with multiple encodings for performance.  
+  - 🔄 **UART Transmitter/Receiver** – with configurable baud rate, parity, and frame format.  
 
 ---
 
@@ -20,6 +23,15 @@
 ![Vivado](https://img.shields.io/badge/Tool-Xilinx%20Vivado-orange?style=for-the-badge)  
 ![QuestaSim](https://img.shields.io/badge/Simulator-Mentor%20QuestaSim-green?style=for-the-badge)  
 ![FPGA](https://img.shields.io/badge/Hardware-FPGA-red?style=for-the-badge)  
+![Linux](https://img.shields.io/badge/OS-Linux-black?style=for-the-badge)  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaled15102002&show_icons=true&theme=radical" alt="Khaled's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled15102002&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+</p>  
 
 ---
 
@@ -32,5 +44,5 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/khaled-ali-b63739360/)  
 - 💻 [GitHub](https://github.com/Khaled15102002)  
