@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Khaled Ali  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=💡+Digital+IC+Design+Engineer;⚡+FPGA+%7C+RTL+%7C+VLSI;🚀+Electronics+%26+Communications+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=💡+Digital+IC+Design+Engineer;🚀+Electronics+%26+Communications+Engineer" alt="Typing SVG" />
 
 ---
 
