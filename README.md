@@ -1,10 +1,6 @@
 <h1 align="left">👋 Hey there! I'm Khaled Ali</h1>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right"/>
-</p>
-
-<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=520&lines=💡+Digital+IC+Design+Engineer" alt="Typing SVG" />
 </p>
 
@@ -18,6 +14,10 @@
 ---
 
 ## 👨‍🎓 About Me
+<p align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right"/>
+</p>
+
 - 🎓 Electronics & Communications student at **Helwan University, Faculty of Engineering**  
 - 🏅 Ranked among the **top students** in my class (Current GPA: **B+**)  
 - 💡 Passionate about **Digital IC Design, FPGA, RTL Verification**  
