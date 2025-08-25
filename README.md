@@ -1,8 +1,20 @@
 # 🏆 Khaled Ali | 💡 Digital IC Design Engineer | ⚡ FPGA • RTL • VLSI
 
 🎓 Electronics & Communications Engineering student at **Helwan University, Faculty of Engineering**  
-🏅 Ranked among the **top students** in my class  
+🏅 Ranked among the **top students** in my class with a current GPA of **B+**  
 💡 Aspiring **Digital IC Design Engineer** | Passionate about **FPGA, RTL, and VLSI**  
+
+---
+
+## 🚀 About Me
+- 🎓 Final-year student in **Electronics & Communications Engineering** at Helwan University.  
+- 🏆 Ranked among the top students with a GPA of **B+**.  
+- 🖥️ Focused on **Digital IC Design, RTL Verification, and FPGA-based Systems**.  
+- 🔧 Skilled in **Verilog HDL, VHDL, FPGA Design, Vivado, QuestaSim, and Timing Analysis**.  
+- 📚 Key academic projects:  
+  - 🔢 **DSP48A1 Spartan-6 Slice** – implemented math-intensive DSP block.  
+  - 📡 **SPI Slave with RAM** – FSM-based design with multiple encodings.  
+  - 🔄 **UART Transmitter/Receiver** – with configurable baud rate, parity, and frame format.  
 
 ---
 
