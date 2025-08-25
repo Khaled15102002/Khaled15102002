@@ -15,7 +15,7 @@
 
 ## 👨‍🎓 About Me
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/3105/3105748.png" width="160" align="right"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right"/>
 </p>
 
 - 🎓 Electronics & Communications student at **Helwan University, Faculty of Engineering**  
