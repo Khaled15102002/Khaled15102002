@@ -1,10 +1,10 @@
 <h1 align="left">👋 Hey there! I'm Khaled Ali</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F70000&center=true&vCenter=true&width=520&lines=💡+Digital+IC+Design+Engineer" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Rank-Top%20Student-00b894?style=flat-square" alt="rank badge"/>
   <img src="https://img.shields.io/badge/GPA-B%2B-f1c40f?style=flat-square" alt="GPA badge"/>
 </p>
