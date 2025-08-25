@@ -45,7 +45,6 @@
   <a href="https://github.com/Khaled15102002/UART">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=UART&theme=radical" />
   </a>
-  -->
 </p>
 
 ---
