@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm Khaled Ali</h1>
+<h1 align="left">👋 Hey there! I'm Khaled Ali</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F70000&center=true&vCenter=true&width=520&lines=💡+Digital+IC+Design+Engineer" alt="Typing SVG" />
