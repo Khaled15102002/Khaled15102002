@@ -1,4 +1,4 @@
-# 🏆 Khaled Ali | 💡 Digital IC Design Enthusiast | ⚡ FPGA • RTL • VLSI
+# 🏆 Khaled Ali | 💡 Digital IC Design Engineer | ⚡ FPGA • RTL • VLSI
 
 🎓 Electronics & Communications Engineering student at **Helwan University, Faculty of Engineering**  
 🏅 Ranked among the **top students** in my class  
