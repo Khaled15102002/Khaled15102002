@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khaled15102002&style=flat-square" alt="profile views"/>
   <img src="https://img.shields.io/badge/Rank-Top%20Student-00b894?style=flat-square" alt="rank badge"/>
   <img src="https://img.shields.io/badge/GPA-B%2B-f1c40f?style=flat-square" alt="GPA badge"/>
 </p>
