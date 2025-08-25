@@ -18,16 +18,6 @@
 
 ---
 
-## 🚀 About Me
-- 🖥️ Focused on **Digital IC Design, RTL Verification, and FPGA-based Systems**  
-- 🔧 Skilled in **Verilog HDL, VHDL, FPGA Design, Vivado, QuestaSim, Timing Analysis**  
-- 📚 Key academic projects:  
-  - 🔢 **DSP48A1 Spartan-6 Slice** – implemented math-intensive DSP block  
-  - 📡 **SPI Slave with RAM** – FSM-based design with multiple encodings  
-  - 🔄 **UART Transmitter/Receiver** – with configurable baud rate & frame format  
-
----
-
 ## 🛠️ Tech Stack
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge)  
 ![VHDL](https://img.shields.io/badge/HDL-VHDL-purple?style=for-the-badge)  
