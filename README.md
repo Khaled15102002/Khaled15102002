@@ -20,9 +20,11 @@
 
 ## 🛠️ Tech Stack
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge)  
+![VHDL](https://img.shields.io/badge/HDL-VHDL-purple?style=for-the-badge)  
 ![Vivado](https://img.shields.io/badge/Tool-Xilinx%20Vivado-orange?style=for-the-badge)  
 ![QuestaSim](https://img.shields.io/badge/Simulator-Mentor%20QuestaSim-green?style=for-the-badge)  
 ![FPGA](https://img.shields.io/badge/Hardware-FPGA-red?style=for-the-badge)  
+![MATLAB](https://img.shields.io/badge/Tool-MATLAB-yellow?style=for-the-badge)  
 ![Linux](https://img.shields.io/badge/OS-Linux-black?style=for-the-badge)  
 
 ---
