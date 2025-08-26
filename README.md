@@ -19,7 +19,7 @@
 </p>
 
 - 🎓 Electronics & Communications student at **Helwan University, Faculty of Engineering**  
-- 🏅 Ranked among the **top students** in my class (Current GPA: **B+**)  
+- 🏅 Ranked among the **top students** in my class (Current GPA: **B+**) with honours 
 - 💡 Passionate about **Digital IC Design, FPGA, RTL Verification**  
 - 🔧 Skilled in **Verilog HDL, VHDL, Vivado, QuestaSim, MATLAB, Linux**  
 - 📚 Projects: **DSP48A1 Slice**, **SPI Slave with RAM**, **UART TX/RX**  
