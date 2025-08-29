@@ -68,6 +68,6 @@
 - 💼 <a href="https://www.linkedin.com/in/khaled-ali-b63739360/">LinkedIn</a>
 - 💻 <a href="https://github.com/Khaled15102002">GitHub</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Khaled15102002&label=Profile%20Views&color=0e75b6&style=flat-square)
+
 
 
