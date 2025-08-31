@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#FF5733">Khaled Ali</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=520&lines=💡+Digital+IC+Design+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=520&lines=💡+Digital+IC+Design+Engineer;⚡+FPGA+Enthusiast;🚀+RTL+Verification+Lover" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,28 +25,32 @@
 
 ## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HDL-VHDL-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tool-Vivado-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Simulator-QuestaSim-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tool-MATLAB-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-## 📌 Pinned Projects
+## 🏅 Achievements & Certifications
+- 🎖️ **Digital Design Certificate** – Completed 6 weeks training on **Verilog HDL & FPGA flow using Vivado** (Aug 2025):contentReference[oaicite:2]{index=2}  
+- 🏆 **Top Performer Award** – For outstanding performance in the same **Digital Design training program** (Aug 2025):contentReference[oaicite:3]{index=3}  
+
+---
+
+## 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/Khaled15102002/DSP48A1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=DSP48A1&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=DSP48A1&theme=radical&show_owner=true" />
   </a>
   <a href="https://github.com/Khaled15102002/SPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=SPI&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=SPI&theme=radical&show_owner=true" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/Khaled15102002/UART">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=UART&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=UART&theme=radical&show_owner=true" />
   </a>
 </p>
 
@@ -54,18 +58,26 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaled15102002&show_icons=true&theme=radical&cache_seconds=7200" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled15102002&layout=compact&theme=radical&cache_seconds=7200" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaled15102002&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled15102002&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled15102002&theme=radical" />
 </p>
 
 ---
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/khaled-ali-b63739360/">
-    <img src="https://img.shields.io/badge/LinkedIn-Khaled%20Ali-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Khaled15102002">
-    <img src="https://img.shields.io/badge/GitHub-Khaled15102002-black?style=for-the-badge&logo=github" />
-  </a>
+## 🎯 Beyond Tech
+- 🧩 Problem Solver & Fast Learner  
+- 📖 Curious about AI & Chip Design future trends  
+- 🎸 Love Music & Chess  
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:khaled.ali@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/khaled-ali-b63739360"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Khaled15102002"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
