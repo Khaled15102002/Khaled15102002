@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#FF5733">Khaled Ali</span></h1>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=neon&text1=Khaled%20Ali&width=800&height=150" alt="Neon Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=520&lines=💡+Digital+IC+Design+Engineer" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rank-Top%20Student-00b894?style=flat-square" alt="rank badge"/>
