@@ -23,6 +23,12 @@
 
 ---
 
+## 🏅 Achievements & Certifications
+- 🎖️ **Digital Design Certificate** – 6 weeks training on **Verilog HDL & FPGA flow (Vivado)** – Aug 2025  
+- 🏆 **Top Performer Award** – For outstanding performance in the same Digital Design training – Aug 2025  
+
+---
+
 ## 🛠️ Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge"/>
@@ -57,8 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Khaled15102002&show_icons=true&theme=radical&cache_seconds=7200" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled15102002&layout=compact&theme=radical&cache_seconds=7200" height="160" />
 </p>
-
-
 
 ---
 
