@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Khaled+Ali;💡+Digital+IC+Design+Engineer;⚡+RTL+%7C+FPGA+%7C+Verification+Enthusiast" alt="Typing SVG" />
+  <img src="https://svg-banners.vercel.app/api?type=neon&text1=Khaled%20Ali&width=800&height=150" alt="Neon Banner"/>
 </h1>
 
 <p align="center">
