@@ -58,7 +58,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled15102002&layout=compact&theme=radical&cache_seconds=7200" height="160" />
 </p>
 
-![Snake animation](https://github.com/Khaled15102002/Khaled15102002/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Khaled15102002/Khaled15102002/blob/output/snake.svg)
+
 
 ---
 
