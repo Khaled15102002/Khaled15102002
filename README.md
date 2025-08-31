@@ -1,12 +1,8 @@
-<h1 align="left">👋 Hey there! I'm Khaled Ali</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Khaled+Ali;💡+Digital+IC+Design+Engineer;⚡+RTL+%7C+FPGA+%7C+Verification+Enthusiast" alt="Typing SVG" />
+</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=520&lines=💡+Digital+IC+Design+Engineer" alt="Typing SVG" />
-</p>
-
-
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Rank-Top%20Student-00b894?style=flat-square" alt="rank badge"/>
   <img src="https://img.shields.io/badge/GPA-B%2B-f1c40f?style=flat-square" alt="GPA badge"/>
 </p>
@@ -14,17 +10,14 @@
 ---
 
 ## 👨‍🎓 About Me
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" align="right"/>
-</p>
-
-- 🎓 Electronics & Communications student at **Helwan University, Faculty of Engineering**  
-- 🏅 Ranked among the **top students** in my class (Current GPA: **B+**) with honours 
+- 🎓 Electronics & Communications Student at **Helwan University, Faculty of Engineering**  
+- 🏅 Ranked among the **Top Students** with Honours (GPA: **B+**)  
 - 💡 Passionate about **Digital IC Design, FPGA, RTL Verification**  
-- 🔧 Skilled in **Verilog HDL, VHDL, Vivado, QuestaSim, MATLAB, Linux**  
-- 📚 Projects: **DSP48A1 Slice**, **SPI Slave with RAM**, **UART TX/RX**  
-
-
+- 🔧 Skilled in **Verilog, VHDL, Vivado, QuestaSim, MATLAB, Linux**  
+- 📚 Built projects like:  
+  - 🔹 DSP48A1 Slice  
+  - 🔹 SPI Slave with RAM  
+  - 🔹 UART TX/RX  
 
 ---
 
@@ -45,10 +38,11 @@
   <a href="https://github.com/Khaled15102002/DSP48A1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=DSP48A1&theme=radical" />
   </a>
-
   <a href="https://github.com/Khaled15102002/SPI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=SPI&theme=radical" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/Khaled15102002/UART">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=UART&theme=radical" />
   </a>
@@ -62,12 +56,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled15102002&layout=compact&theme=radical&cache_seconds=7200" height="160" />
 </p>
 
+![Snake animation](https://github.com/Khaled15102002/Khaled15102002/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 📫 Connect with Me
-- 💼 <a href="https://www.linkedin.com/in/khaled-ali-b63739360/">LinkedIn</a>
-- 💻 <a href="https://github.com/Khaled15102002">GitHub</a>
-
-
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/khaled-ali-b63739360/">
+    <img src="https://img.shields.io/badge/LinkedIn-Khaled%20Ali-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Khaled15102002">
+    <img src="https://img.shields.io/badge/GitHub-Khaled15102002-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
