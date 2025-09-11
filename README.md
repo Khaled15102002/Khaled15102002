@@ -19,7 +19,8 @@
 - 📚 Built projects like:  
   - 🔹 DSP48A1 Slice  
   - 🔹 SPI Slave with RAM  
-  - 🔹 UART TX/RX  
+  - 🔹 UART TX/RX
+  - 🔹 FIFO
 
 ---
 
