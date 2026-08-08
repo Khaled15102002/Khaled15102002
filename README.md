@@ -2,19 +2,12 @@
 
 ### Electronics & Communications Engineer | RTL Design | FPGA | Digital IC Design
 
-<p align="left">
-  <a href="https://github.com/Khaled15102002">
-    <img src="https://img.shields.io/github/followers/Khaled15102002?label=Followers&style=flat&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Khaled15102002&style=flat&color=blue" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 **Electronics & Communications Engineer** — Helwan University, Faculty of Engineering
-- 🏅 Graduated with **Very Good with Honours**
+- 🏅 Graduated with **Very Good with Honours** — **GPA: 3.55**
 - 💡 Passionate about **Digital IC Design, RTL Design, FPGA Development & Verification**
 - 🔧 Experienced in **Verilog, VHDL, SystemVerilog, Vivado, Vitis, QuestaSim & MATLAB**
 - 🧠 Interested in **Computer Architecture, Hardware/Software Co-Design & Edge AI**
@@ -26,10 +19,6 @@
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming & Hardware Description Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,matlab,linux" />
-</p>
 
 - Verilog
 - VHDL
