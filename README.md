@@ -151,6 +151,15 @@ Hands-on experience with:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaled15102002&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled15102002&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
 ## 📈 GitHub Activity
 
 <p align="center">
@@ -163,11 +172,11 @@ Hands-on experience with:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/khaled-ali-b63739360/">
+<a href="https://github.com/Khaled15102002">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/khaled-ali-b63739360/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
