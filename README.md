@@ -1,76 +1,200 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#FF5733">Khaled Ali</span></h1>
+# 👋 Hi, I'm Khaled Ali
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=520&lines=💡+Digital+IC+Design+Engineer" alt="Typing SVG" />
-</p>
+### Electronics & Communications Engineer | RTL Design | FPGA | Digital IC Design
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rank-Top%20Student-00b894?style=flat-square" alt="rank badge"/>
-  <img src="https://img.shields.io/badge/GPA-B%2B-f1c40f?style=flat-square" alt="GPA badge"/>
-</p>
-
----
-
-## 👨‍🎓 About Me
-- 🎓 Electronics & Communications Student at **Helwan University, Faculty of Engineering**  
-- 🏅 Ranked among the **Top Students** with Honours (GPA: **B+**)  
-- 💡 Passionate about **Digital IC Design, FPGA, RTL Verification**  
-- 🔧 Skilled in **Verilog, VHDL, Vivado, QuestaSim, MATLAB, Linux**  
-- 📚 Built projects like:  
-  - 🔹 DSP48A1 Slice  
-  - 🔹 SPI Slave with RAM  
-  - 🔹 UART TX/RX
-  - 🔹 FIFO
-
----
-
-## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HDL-VHDL-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tool-Vivado-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Simulator-QuestaSim-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tool-MATLAB-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge"/>
+  <a href="https://github.com/Khaled15102002">
+    <img src="https://img.shields.io/github/followers/Khaled15102002?label=Followers&style=flat&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Khaled15102002&style=flat&color=blue" />
 </p>
 
 ---
 
-## 📌 Pinned Projects
-<p align="center">
-  <a href="https://github.com/Khaled15102002/DSP48A1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=DSP48A1&theme=radical" />
-  </a>
-  <a href="https://github.com/Khaled15102002/SPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=SPI&theme=radical" />
-  </a>
+## 👨‍💻 About Me
+
+- 🎓 **Electronics & Communications Engineer** — Helwan University, Faculty of Engineering
+- 🏅 Graduated with **Very Good with Honours**
+- 💡 Passionate about **Digital IC Design, RTL Design, FPGA Development & Verification**
+- 🔧 Experienced in **Verilog, VHDL, SystemVerilog, Vivado, Vitis, QuestaSim & MATLAB**
+- 🧠 Interested in **Computer Architecture, Hardware/Software Co-Design & Edge AI**
+- 📡 Hands-on experience with **5G RAN & O-RAN technologies**
+- 🚀 Experienced in designing and integrating **FPGA-based digital systems and Edge AI accelerators**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming & Hardware Description Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,matlab,linux" />
 </p>
-<p align="center">
-  <a href="https://github.com/Khaled15102002/UART">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=UART&theme=radical" />
-  </a>
-<a href="https://github.com/Khaled15102002/FIFO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khaled15102002&repo=FIFO&theme=radical" />
-  </a>
-</p>
+
+- Verilog
+- VHDL
+- SystemVerilog
+- C / C++
+- MATLAB
+
+### 🔧 FPGA & EDA Tools
+
+- AMD Xilinx **Vivado**
+- AMD Xilinx **Vitis**
+- **QuestaSim**
+- **Questa Lint**
+- **Proteus**
+- FPGA Design & Implementation
+- RTL Design & Verification
+- Static Timing Analysis (STA)
+- Clock Domain Crossing (CDC)
+- Formal Verification
+
+### 🧠 Digital Design & Computer Architecture
+
+- RTL Design
+- Digital IC Design
+- FPGA Architecture
+- AXI-Based SoC Integration
+- Memory Mapping
+- Hardware/Software Co-Design
+- RISC-V
+- ARM Cortex-M3
+- Vector Processing / RVV
+- Processing Elements (PEs)
+
+### 🤖 Edge AI & Embedded Systems
+
+- TinyML
+- Edge Impulse
+- Edge AI Accelerators
+- Coral NPU
+- FPGA-Based AI Inference
+- Embedded Software
+- Vitis
+
+### 📡 Wireless & Networks
+
+- 5G RAN
+- O-RAN
+- ORAN Architecture
+- Mobile Networks
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Edge AI SoC for TinyML Audio Inference
+
+**Graduation Project — Grade: Excellent**
+
+Designed and implemented an FPGA-based Edge AI SoC for TinyML audio inference.
+
+**Technologies:**
+`Verilog` `Vivado` `Vitis` `RISC-V` `ARM Cortex-M3` `AXI` `TinyML`
+
+- 🧠 Integrated a **RISC-V Vector NPU** with an ARM Cortex-M3 processor
+- ⚡ Designed an FPGA-based accelerator for TinyML audio inference
+- 🔗 Implemented **AXI-based SoC integration and memory mapping**
+- 🧩 Worked with **ITCM, DTCM and CSR interfaces**
+- 🤖 Used **Edge Impulse** for TinyML model development
+- 🖥️ Deployed and tested the system on an **AMD Xilinx ZCU104 FPGA**
+
+---
+
+### 🔹 DSP48A1 Slice
+
+RTL implementation of a configurable DSP processing element inspired by the Xilinx DSP48A1 architecture.
+
+**Technologies:**
+`Verilog` `RTL Design` `Simulation` `Verification`
+
+---
+
+### 🔹 SPI Slave with RAM
+
+Designed an SPI Slave interface integrated with RAM for serial communication and data storage.
+
+**Technologies:**
+`Verilog` `SPI` `RAM` `RTL`
+
+---
+
+### 🔹 UART TX/RX
+
+Designed and verified UART transmitter and receiver modules for serial communication.
+
+**Technologies:**
+`Verilog` `UART` `RTL` `Simulation`
+
+---
+
+### 🔹 Synchronous FIFO
+
+Implemented a synchronous FIFO with read/write control, status flags, and memory management.
+
+**Technologies:**
+`Verilog` `FIFO` `RTL Design` `Verification`
+
+---
+
+## 📚 Experience & Training
+
+### 📡 5G / O-RAN Training — ITI
+
+Hands-on training in:
+
+- 5G RAN Architecture
+- O-RAN Architecture
+- Mobile Network Technologies
+- Open RAN Concepts
+
+### 🔧 Digital Design & FPGA
+
+Hands-on experience with:
+
+- RTL Design using Verilog
+- FPGA Design using Vivado
+- Embedded Software using Vitis
+- Simulation & Verification using QuestaSim
+- Static Timing Analysis
+- CDC Analysis
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaled15102002&show_icons=true&theme=radical&cache_seconds=7200" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled15102002&layout=compact&theme=radical&cache_seconds=7200" height="160" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaled15102002&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled15102002&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled15102002&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/khaled-ali-b63739360/">
-    <img src="https://img.shields.io/badge/LinkedIn-Khaled%20Ali-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Khaled15102002">
-    <img src="https://img.shields.io/badge/GitHub-Khaled15102002-black?style=for-the-badge&logo=github" />
-  </a>
+
+<a href="https://github.com/Khaled15102002">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Designing hardware. Building systems. Accelerating AI at the edge.</b>
 </p>
